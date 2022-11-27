@@ -12,7 +12,7 @@ public class ApiController {
 
     @GetMapping("/greeting")
     public String greeting(){
-        return "Hello";
+        return "Welcome to GIT ";
     }
 
 
